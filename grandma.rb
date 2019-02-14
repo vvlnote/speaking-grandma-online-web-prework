@@ -20,3 +20,7 @@ def speak_to_grandma(phrase)
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
+
+def speack_to_grandma(phrase)
+  if (phrase == "")
+end
